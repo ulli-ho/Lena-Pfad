@@ -1,7 +1,7 @@
 <html> 
  	<head>
  		<title>Aufgabe_1</title>
-		<link href="1Urweltmammutbaum.css" type= "text/css" rel="stylesheet" />
+		<link href="1Urweltmammutbaum_CSS.css" type= "text/css" rel="stylesheet" />
 		
 	</head>
 	<body>
@@ -13,16 +13,16 @@
 	<h2><p align="center">lat. Name: Metasequoia glyptostroboide<h2>
 	<p><h2><p align="center">Dieser Baum hat sich seit 80 Millionen Jahren nicht mehr verändert,<br>
 			 	 er ist aus Ablagerungen der Kreidezeit neben den Resten von Dinosauriern <br>
-				 gefunden worden. Er hat ein wunderschönes rotes Holz und verkleidet im <br>
-				 Herbst sogar rote nadelartige Laubblätter. Er galt lange als verschollen,<br>
-				 bis der Baum im Jahr 1941 in der chinesischen Region wieder entdeckt wurde.<br>
+				 gefunden worden. Er hat ein wunderschönes rotes Holz und verkleidet sich im <br>
+				 Herbst sogar mit roten nadelartigen Laubblätter. Er galt lange als verschollen,<br>
+				 bis der Baum im Jahr 1941 in einer chinesischen Region wiederentdeckt wurde.<br>
 				 Seitdem wurde diese Pflanze weltweit verbreitet und gilt überall als Zierbaum.</p>
 	<hr>
 	<div align= "center">
  	 	<img src="1Urweltmammutbaum.jpg" alt="1Urweltmammutbaum">
 	</div>	
 	<h1><p align="center"><u>Die Frage:</u></h1>
-	<h2><p align="center">Die Menschen kannten ihn bis 1940 nur durch Versteinerungen und deshalb gilt er auch als ...?!<br> 
+	<h2><p align="center">Die Menschen kannten ihn bis 1940 nur durch aufgefundene Versteinerungen und deshalb gilt er auch als ...?!<br> 
 	<hr>
 	<h2><p align="center"><u>Hier sind deine Antwortmöglichkeiten:</u></h2>
 	<h2><p align="center">Merke dir den Buchstaben aber keine Sorge, <br>

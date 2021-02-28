@@ -1,11 +1,11 @@
 <html> 
  	<head>
- 		<title>Aufgabe_3</title>
-		<link href="3Douglasie.css" type= "text/css" rel="stylesheet" />
+ 		<title>Aufgabe_5</title>
+		<link href="5Douglasie.css" type= "text/css" rel="stylesheet" />
 		
 	</head>
 	<body>
-	<p><h1><p align="center">Dies ist die dritte Station!</h1> 
+	<p><h1><p align="center">Dies ist die fünfte Station!</h1> 
 	<hr>
 	<h1> <p align="center">Schaffst du das Rätsel? </h1>
 	<hr>
@@ -16,17 +16,17 @@
 			      Merkmale sind weiche Nadeln und hängende Zapfen. Die Douglasie stammt <br>
 			      von der Westküste Nordamerikas und wurde im 19. Jahrhundert als Forstbaum<br>
 			      in Europa eingeführt. Dieser Baum ist also nicht heimisch in Deutschland.<br>
-			      Da es an der Westküste Nordamerikas ganzjährlich warm ist, die Temperaturen <br>
-			      sinken niemals unter 15°C hat der Klimawandel einen positiven Einfluss auf<br>
+			      Da es an der Westküste Nordamerikas ganzjährlich warm ist, sinken die Temperaturen <br>
+			      niemals unter 15°C. Der Klimawandel hat einen positiven Einfluss auf<br>
 			      die Verbreitung des Baums. In Deutschland jedoch haben wir im Winter auch Minusgrade,<br>
-			      allerding trägt der Klimawandel zur Erhöhung der Jahresdurchnschnittstemperatur <br>
-			      auch in unseren Breiten bei.Die gewöhnliche Douglasie trägt von April bis Ende Mai<br>
-			      gelbliche Blüten die dann zu einem reifen braunen Zapfen wachsen. Aktuell verbreitet <br>
-			      sich der Baum auf Grund seiner geringen Ansprüche an den Lebensraum massivs in Deutschland. <br>
+			      allerding trägt der Klimawandel zur Erhöhung der Jahresdurchschnittstemperatur <br>
+			      auch in unseren Breiten bei. Die Gewöhnliche Douglasie trägt von April bis Ende Mai<br>
+			      gelbliche Blüten, die dann zu einem reifen braunen Zapfen wachsen. Aktuell verbreitet <br>
+			      sich der Baum auf Grund seiner geringen Ansprüche an den Lebensraum massiv in Deutschland. <br>
 			      Jedoch sollte man folgendes wissen: Die Douglasie ist eine invasive Art und gefährdet <br>
 			      heimische Baumarten.</h2></p>
  	<div align= "center">
- 	 	<img src="3Douglasie.jpg" alt="Zapfen">
+ 	 	<img src="5Douglasie.jpg" alt="Zapfen">
 	</div> 
 	<hr>
 	<h1><p align="center"><u>Die Frage:</u></h1>
@@ -36,11 +36,11 @@
 	<h2><p align="center"><u>Hier sind deine Antwortmöglichkeiten:</u></h2>
 	<h2><p align="center">Wichtig - Es ist nur eine Antwortmöglichkeit richtig!</h2>
 	<hr>
-	<h2><p align="center">EN - Die Douglasie gibt der Parfümerie Douglas den Namen, die 1910 in Hamburg gegründet wird.<br>
+	<h2><p align="center">ANE - Die Douglasie gibt der Parfümerie Douglas den Namen, die 1910 in Hamburg gegründet wurde.<br>
 				  Früher hing in jedem Laden ein Bild mit der Douglasie. </h2>
-	<h2><p align="center">ST - Die Nadeln der Douglasie haben einen intensiven zitronigen Geruch, weshalb <br>
+	<h2><p align="center">KAS - Die Nadeln der Douglasie haben einen intensiven zitronigen Geruch, weshalb <br>
 				  das Öl der Nadeln zur Aromatherapie benutzt wird.</h2>
-	<h2><p align="center">ME - Die größte Douglasie Deutschlands steht im Stadtwald von München, im Voraplenland <br>
-				  hat sie die perfekten Wuchsbedingungen also kalte lange Winter.
+	<h2><p align="center">LEN - Die größte Douglasie Deutschlands steht im Stadtwald von München, im Voralpenland <br>
+				  hat sie die perfekten Wuchsbedingungen, also kalte und lange Winter.
 	<hr>
 </html>
