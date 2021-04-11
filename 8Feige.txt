@@ -1,0 +1,45 @@
+<html> 
+ 	<head>
+ 		<title>Aufgabe_8</title>
+		<link href="8Feige.css" type= "text/css" rel="stylesheet" />
+		
+	</head>
+	<body>
+	<p><h1><p align="center">Dies ist die achte Station!</h1> 
+	<hr>
+	<h1> <p align="center">Schaffst du das Rätsel? </h1>
+	<hr>
+	<h2><p align="center"><u> Die Feige </u></h2>
+	<h2><p align="center">lat. Name: Ficus spec.</h2>
+	<h2><p align="center">  Die Feige wird auch einfacher Feigenbaum genannt und stammt ursprünglich aus Kleinasien.<br>
+				Sie ist eine der ältesten kultivierten Pflanzen und ist wegen ihrer süßen essbaren <br>
+				Früchten sehr beliebt. Die Feigenbäume haben oft einen kurzen und gedrehten Stamm, <br>
+				je nach Standort können die Frucht eine grüne oder violette Schale haben. Feigen sind<br>
+				sehr pflegeleicht, da sie selten Opfer von Krankheiten und Schädlingen werden. Sicherlich kennst du <br>
+				die Rolle der Feige in der Bibel? Nachdem Adam und Eva vom Baum der Erkenntnis gegessen hatten,<br>
+				bemerkten sie zum ersten Mal ihre Nacktheit: Sie bastelten sich einen Sichtschutz aus <br>
+				Feigenblättern! Sicher hast du schon mal eine Situation erlebt, in der ein Problem kaschiert <br>
+				wurde. Dafür steht die Redewendung <u>Etwas ein Feigenblatt umhängen</u>. Im Gegensatz zum Apfel, der nur <br>
+				vier Mal im alten Testament erwähnt wurde, wird die Feigenfrucht sogar 38 Mal genannt, sie steht für <br>
+				Frieden und Wohlstand.</p></h2>
+	<div align= "center">
+ 	 	<img src="8Feige.jpg" alt="Feige">
+	</div>
+	<p align="center"><a href="https://bit.ly/3s30zu0">Bild von Couleur auf Pixabay </a>
+	<hr>
+	<h1><p align="center"><u>Die Frage:</u></h1>
+	<h2><p align="center">Welche Aussage von den unten genannten ist deiner Meinung nach die richtige Antwort?<br>
+				Aber denk dran, nur eine Aussage ist richtig, denn die anderen sind erlogen!</p>
+	<hr>
+	<h2><p align="center"><u>Hier sind deine Antwortmöglichkeiten:</u></h2>
+	<h2><p align="center">Wichtig - Es ist nur eine Antwortmöglichkeit richtig!</h2>
+	<hr>
+	<h2><p align="center">IM - Aus botanischer Sicht sind Feigen nur Scheinfrüchte, denn die eigentlichen Früchte sind <br>
+				  die gelben Kernchen in dem rosafarbenen Fruchtfleisch.</h2>
+	<h2><p align="center">AU - Erstaunlicherweise ist Deutschland einer der Hauptproduzenten von Feigen weltweit, im Jahr 2018 wurden 800t produziert. <br>
+				  Deutschland wurde nur noch von Spanien und Mexiko mit jeweils 1000t (im Jahr 2018) Ertrag übertroffen. 
+	<h2><p align="center">CH - Zwischen dem 13. Jhd und 15. Jhd galt die Feige als beliebte Zutat für eine Suppe die sich "Feigen-Süppchen" bezeichnete. <br>
+				  Dazu wurde ein halbes Brot mit Butter gereicht, auch heute noch findet man das Süppchen auf vielen Speisekarten in der Region<br>
+				  von Amsterdam. Dabei ist die Süße der Feige ein starker Geschmacksträger. </h2> 
+	<hr>
+</html>
